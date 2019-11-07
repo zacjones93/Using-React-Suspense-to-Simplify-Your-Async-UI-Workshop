@@ -15,10 +15,10 @@ Some question(s) are outlined in the essential questions section of the README f
 Right below is the intended outcomes of the course, these are the skills and knowledge you will learn that you can take to any application to use.
 
 ## Essential Questions
-When should I not use Suspense?
-How does Suspense help my app performance?
-What is the best way to load data?
-Should I always 'render as I fetch' with Suspense?
+- When should I not use Suspense?
+- How does Suspense help my app performance?
+- What is the best way to load data?
+- Should I always 'render as I fetch' with Suspense?
 
 ## Workshop Outcomes
 
