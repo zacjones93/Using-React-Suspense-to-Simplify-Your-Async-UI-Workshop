@@ -3,11 +3,9 @@
 These notes were taken during Kent C. Dodds workshop on [Using React Suspense to Simplify Your Async UI](https://github.com/kentcdodds/concurrent-react)
 
 [As per Kent's README:](https://github.com/kentcdodds/concurrent-react#%EF%B8%8F-warning-%EF%B8%8F)
-## ⚠️ Warning ⚠️
+## ⚠️ Warning  ⚠️
 
-This workshop material deals with **EXPERIMENTAL** features in React. Please do not copy/paste any of the code you find here into a production application and
-expect it to work. Even when the features are released they may not work the
-same as demonstrated in this workshop material.
+This workshop material deals with **EXPERIMENTAL** features in React. Please do not copy/paste any of the code you find here into a production application and expect it to work. Even when the features are released they may not work the same as demonstrated in this workshop material.
 ---
 
 Some question(s) are outlined in the essential questions section of the README for you to think about as you take the workshop. There is no 'definitive' answer to these questions but as you learn, you'll develop a more contextualized answer.
