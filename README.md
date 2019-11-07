@@ -1,4 +1,4 @@
-# Community-Notes-Using-React-Suspense-to-Simplify-Your-Async-UI-Workshop
+# Description
 
 These notes were taken during Kent C. Dodds workshop on [Using React Suspense to Simplify Your Async UI](https://github.com/kentcdodds/concurrent-react)
 
